@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github" fetch="https://github.com" />
+    <project name="cool585/android_device_motorola_liber" path="device/motorola/liber" remote="github" revision="android-14" />
+    <project name="cool585/android_kernel_motorola_sm7150" path="kernel/motorola/sm7150" remote="github" revision="android-14" />
+    <project name="cool585/android_vendor_motorola_liber" path="vendor/motorola/liber" remote="github" revision="android-14" />
+</manifest>
